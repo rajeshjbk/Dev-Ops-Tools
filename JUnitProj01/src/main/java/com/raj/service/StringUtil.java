@@ -11,8 +11,10 @@ public class StringUtil {
 	}
 	
 	public int showLength(String str) {
-		
-		return str.length();//gives given String length
+
+		return str.length();//gives given String lengths
+
 	}
 	
 }
+ 
