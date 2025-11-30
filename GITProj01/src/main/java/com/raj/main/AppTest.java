@@ -22,7 +22,7 @@ public class AppTest {
         
         System.out.println("================================");
         NetBankingService service = new NetBankingService();
-        System.out.println(service.transferMoney(55678, 45678, 10000));
+        System.out.println(service.transferMoney(55678, 45678, 10000,"RTGS"));
 	}
 
 }
