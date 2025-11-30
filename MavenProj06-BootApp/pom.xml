@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	
-	<groupId>nit</groupId>
+	<groupId>raj</groupId>
 	<artifactId>MavenProj06-BootApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MavenProj06-BootApp</name>
