@@ -1,0 +1,98 @@
+{
+  "instant" : {
+    "epochSecond" : 1763965024,
+    "nanoOfSecond" : 203660200
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "com.raj.service.SelectTest",
+  "message" : "start of main(-) method, application",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1763965025,
+    "nanoOfSecond" : 153249800
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.raj.service.SelectTest",
+  "message" : "Connection with SB s/w is established",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1763965025,
+    "nanoOfSecond" : 272667000
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "com.raj.service.SelectTest",
+  "message" : "PreparedStatement object is created",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1763965025,
+    "nanoOfSecond" : 407193500
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "com.raj.service.SelectTest",
+  "message" : "ResultSet object is created",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1763965025,
+    "nanoOfSecond" : 422097000
+  },
+  "thread" : "main",
+  "level" : "WARN",
+  "loggerName" : "com.raj.service.SelectTest",
+  "message" : "Its better tp Process the ResultSet Data directly with getXxx() methods, not as String values",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1763965025,
+    "nanoOfSecond" : 422097000
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "com.raj.service.SelectTest",
+  "message" : "ResultSet object is processed",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1763965025,
+    "nanoOfSecond" : 428152200
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "com.raj.service.SelectTest",
+  "message" : "end of main(-) method",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}

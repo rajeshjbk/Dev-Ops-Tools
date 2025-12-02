@@ -1,0 +1,7 @@
+2025-11-24 09:03:13[main]2025-11-24 09:03:13[main]2025-11-24 09:03:13[main]2025-11-24 09:03:13[main]2025-11-24 09:03:13[main]2025-11-24 09:03:13[main]2025-11-24 09:03:13[main]2025-11-24 09:05:05[main]DEBUG com.raj.service.SelectTest - start of main(-) method, application - main 
+2025-11-24 09:05:05[main]INFO  com.raj.service.SelectTest - Connection with SB s/w is established - main 
+2025-11-24 09:05:05[main]DEBUG com.raj.service.SelectTest - PreparedStatement object is created - main 
+2025-11-24 09:05:05[main]DEBUG com.raj.service.SelectTest - ResultSet object is created - main 
+2025-11-24 09:05:05[main]WARN  com.raj.service.SelectTest - Its better tp Process the ResultSet Data directly with getXxx() methods, not as String values - main 
+2025-11-24 09:05:05[main]DEBUG com.raj.service.SelectTest - ResultSet object is processed - main 
+2025-11-24 09:05:05[main]DEBUG com.raj.service.SelectTest - end of main(-) method - main 
