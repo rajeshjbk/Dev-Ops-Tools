@@ -1,9 +1,6 @@
 ##############################
 # Eclipse-specific files
 ##############################
-.project
-.classpath
-.settings/
 .metadata/
 bin/
 
