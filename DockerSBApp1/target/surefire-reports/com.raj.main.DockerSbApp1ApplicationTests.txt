@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.raj.main.DockerSbApp1ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.665 s -- in com.raj.main.DockerSbApp1ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.602 s -- in com.raj.main.DockerSbApp1ApplicationTests
