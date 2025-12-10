@@ -1,0 +1,77 @@
+##############################
+# Eclipse-specific files
+##############################
+.metadata/
+bin/
+
+##############################
+# Maven-specific files
+##############################
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+pom.properties
+
+!.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+
+##############################
+# Java-specific files
+##############################
+*.class
+*.log
+*.ctxt
+hs_err_pid*
+replay_pid*
+
+##############################
+# OS-specific files
+##############################
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+##############################
+# IDE / Editor files
+##############################
+# IntelliJ (excluded in case project is opened in IntelliJ)
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+##############################
+# Temporary files
+##############################
+*.tmp
+*.bak
+*.swp
+*.swo
+
+##############################
+# Logs
+##############################
+logs/
+*.log
+
+##############################
+# Others
+##############################
+# Java crash logs
+hs_err_pid*
+replay_pid*

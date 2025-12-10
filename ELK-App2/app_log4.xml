@@ -1,0 +1,70 @@
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964728086" thread="main" level="DEBUG" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964728" nanoOfSecond="86319400"/>
+    <Message>start of main(-) method, application</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964729374" thread="main" level="INFO" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964729" nanoOfSecond="374895900"/>
+    <Message>Connection with SB s/w is established</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964729484" thread="main" level="DEBUG" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964729" nanoOfSecond="484460600"/>
+    <Message>PreparedStatement object is created</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964729649" thread="main" level="DEBUG" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964729" nanoOfSecond="649450500"/>
+    <Message>ResultSet object is created</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964729662" thread="main" level="WARN" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964729" nanoOfSecond="662462400"/>
+    <Message>Its better tp Process the ResultSet Data directly with getXxx() methods, not as String values</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964729663" thread="main" level="DEBUG" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964729" nanoOfSecond="663464600"/>
+    <Message>ResultSet object is processed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964729668" thread="main" level="DEBUG" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964729" nanoOfSecond="668915500"/>
+    <Message>end of main(-) method</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964760534" thread="main" level="DEBUG" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964760" nanoOfSecond="534102700"/>
+    <Message>start of main(-) method, application</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964761548" thread="main" level="INFO" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964761" nanoOfSecond="548387300"/>
+    <Message>Connection with SB s/w is established</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964761666" thread="main" level="DEBUG" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964761" nanoOfSecond="666482700"/>
+    <Message>PreparedStatement object is created</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964761819" thread="main" level="DEBUG" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964761" nanoOfSecond="819406200"/>
+    <Message>ResultSet object is created</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964761837" thread="main" level="WARN" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964761" nanoOfSecond="837314800"/>
+    <Message>Its better tp Process the ResultSet Data directly with getXxx() methods, not as String values</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964761838" thread="main" level="DEBUG" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964761" nanoOfSecond="838316000"/>
+    <Message>ResultSet object is processed</Message>
+  </Event>
+
+  <Event xmlns="http://logging.apache.org/log4j/2.0/events" timeMillis="1763964761844" thread="main" level="DEBUG" loggerName="com.raj.service.SelectTest" endOfBatch="false" loggerFqcn="org.apache.logging.slf4j.Log4jLogger" threadId="1" threadPriority="5">
+    <Instant epochSecond="1763964761" nanoOfSecond="844513700"/>
+    <Message>end of main(-) method</Message>
+  </Event>
